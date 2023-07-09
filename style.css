@@ -96,3 +96,6 @@ color: black;
 .hr{
   width: 800px;
 }
+.mainname {
+  list-style: none;
+}
